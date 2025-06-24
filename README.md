@@ -17,14 +17,13 @@ Bu proje, dünya ülkelerinin coğrafi konumlarını görselleştirmek için haz
 - İşaretçiye tıklanıldığında ilgili ülke adı görünür.
 
 ## Gereksinimler
-
-- Python 3.x  
+ 
 - Pandas  
 - Folium  
 
 ## Proje Amacı
 
-Bu proje, temel veri görselleştirme ve coğrafi veri işleme becerilerini geliştirmek için hazırlanmıştır. Harita tabanlı veri sunumu yapmak isteyenler için örnek teşkil etmektedir.
+Bu proje, temel veri görselleştirme ve coğrafi veri işleme becerilerimi geliştirmek için hazırlanmıştır.
 
 ## Örnek Görsel
 
